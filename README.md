@@ -1,0 +1,2 @@
+# sqlcheck-test
+Hi there!
